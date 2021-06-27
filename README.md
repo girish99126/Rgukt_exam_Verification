@@ -10,4 +10,8 @@ Steps To Setup:
 ```
 pip install opencv-python
 ```
+OUTPUT 
+
+![Alt text](https://github.com/kadambarigirish/Rgukt_exam_Verification/blob/main/Screenshot%202021-06-28%20004052.png "Optional title")
+
 
